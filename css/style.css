@@ -686,3 +686,9 @@ a.btn:hover {
     opacity: 0.5;
     border-radius: 20px;
 }
+
+.item img{
+    width:  265px;
+    height: 300px;
+    object-fit: cover;
+}
